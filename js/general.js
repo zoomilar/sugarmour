@@ -13,6 +13,8 @@ var plugins = '';
 			closeMessage: 'Close this window at your own demise!' // Message below close window link
 		});
 
+
+
     });
 
     plugins = {

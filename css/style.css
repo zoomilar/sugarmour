@@ -263,7 +263,7 @@ div.control a{
     height: auto;
 }
 
-.iframe-translating{
+#iframe-translating{
     position: fixed;
     left: 0;
     top:0;
@@ -272,6 +272,28 @@ div.control a{
     background: #fff;
     width: 100%;
     height: 100%;
+}
+
+div.iframe-loader{
+    position: fixed;
+    left: 0;
+    top:0;
+    right: 0;
+    bottom: 0;
+    background: #fff;
+    width: 100%;
+    height: 100%;
+    z-index:999;
+    -webkit-transition: all ease 1s;
+    -moz-transition: all ease 1s;
+    -ms-transition: all ease 1;
+    -o-transition: all ease 1s;
+    transition: all ease 1s;
+}
+
+div.iframe-loader.hiddenz{
+    opacity: 0;
+    visibility: hidden;
 }
 
 /*LISTS*/
