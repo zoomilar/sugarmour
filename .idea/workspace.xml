@@ -37,8 +37,8 @@
       <file leaf-file-name="config.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.51860744">
-              <caret line="27" column="70" selection-start-line="8" selection-start-column="2" selection-end-line="27" selection-end-column="70" />
+            <state vertical-scroll-proportion="0.36734694">
+              <caret line="20" column="70" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="70" />
               <folding />
             </state>
           </provider>
@@ -185,7 +185,13 @@
       <option name="project" value="LOCAL" />
       <updated>1466585296989</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit df dgd">
+      <created>1466585511294</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1466585511294</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -222,7 +228,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="first commit df dgd" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit df dgd" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -260,8 +267,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.51860744">
-          <caret line="27" column="70" selection-start-line="8" selection-start-column="2" selection-end-line="27" selection-end-column="70" />
+        <state vertical-scroll-proportion="0.36734694">
+          <caret line="20" column="70" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="70" />
           <folding />
         </state>
       </provider>
