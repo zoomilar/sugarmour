@@ -2,8 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68d7ae3f-3f7d-4eae-869e-c791c90e0685" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/imgs/1 Titulinis.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/imgs/2 Keksiukai.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/imgs/2.5 Kelsiukai isskleistas.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/imgs/3 Tortas.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/imgs/3.1 Tortas isskleistas.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/imgs/4. Mavaroons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/imgs/4.1 Macaroons isskleistas.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/imgs/img1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/imgs/img2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/imgs/img3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/imgs/img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/imgs/img5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/imgs/img6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/imgs/img7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/imgs/img8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/misc/msc-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/misc/msc-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/misc/msc-3.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
     </list>
     <ignored path="www.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -203,7 +221,13 @@
       <option name="project" value="LOCAL" />
       <updated>1466586244150</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="first commit df dgd">
+      <created>1466586496478</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1466586496478</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
